@@ -1,0 +1,20 @@
+#SERVER_CONFIG_FILE 
+
+# porta TCP del server: 
+TCPPORT=5454
+
+# Indirizzo di multicast:
+MULTICAST=230.0.0.0
+
+# Porta di multicast
+MCASTPORT=4446
+
+# porta del registry RMI per servizio di registrazione:
+REGISTRYPORTREGISTRATION=5458
+
+
+# porta registry per servizio di following: 
+REGISTRYFOLLOWINGPORT=5896
+
+# Tempo di attesa per il calcolo delle ricompense
+TIMETOWAIT=200000

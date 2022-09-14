@@ -1,0 +1,16 @@
+#CLIENT_CONFIG_FILE
+
+# porta TCP 
+TCPPORT=5454
+
+# porta RMI
+RMIREGISTRATIONSERVICE=5458
+
+# porta RMI per il servizio di follow
+RMIFOLLOWSERVICE=5896
+
+# indirizzo InetAddress 
+INDIRIZZOINETADDRESS=localhost
+
+# hostRMI
+HOSTRMI=localhost
